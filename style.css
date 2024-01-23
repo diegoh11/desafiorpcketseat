@@ -1,0 +1,53 @@
+h1 {
+  font-family:"Dosis";
+  font-size: 35px;
+  font-weight: normal;
+  line-height: 40px;
+}
+  h1 span {
+    color: #EE24FF;
+    font-weight: bold;
+  }
+  #hero {
+
+    width: 592px;
+    margin: 0 auto 52px;
+  }
+   #hero img {
+  margin-left: 30px;
+}
+  body {
+    text-align: center;
+    margin-top: 60px;
+    font-family: 'dosis';
+  }
+  
+  
+   p  {
+    color:#363636 ;
+    
+   } 
+   p strong {
+    color:black;
+   }
+  
+  #footer a{
+    margin-left: 30px;
+    font-family: "Dosis";
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 48px;
+
+  }
+
+  .inter img {
+
+  margin-bottom: 0;
+  }
+  
+
+
+
+ 
+  
